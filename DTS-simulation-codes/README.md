@@ -8,8 +8,8 @@
   3. _Dr. Sreeja Kutti Kandy_ (IITM & University of Pennsylvania)
   4. _Dr. Allan G. Hansen_ (MEMPHYS)
   5. _Prof. Ravi Radhakrishnan_ (University of Pennsylvania)
-  6. _Prof. Qiang Cui (Boston University)  - Delineating the shape of COPII coated membrane bud (BioRxiv 2024)
-  7. _Dr. Sanjoy Paul (Boston University) - Delineating the shape of COPII coated membrane bud (BioRxiv 2024)
+  6. _Prof. Qiang Cui_ (Boston University)  - Delineating the shape of COPII coated membrane bud (BioRxiv 2024)
+  7. _Dr. Sanjoy Paul_ (Boston University) - Delineating the shape of COPII coated membrane bud (BioRxiv 2024)
 
 ```Bug reports and queries may be directed to: ``` _nrkssa@gmail.com_
 
