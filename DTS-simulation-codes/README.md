@@ -35,7 +35,8 @@ There are three two components in the model:
 $$
 In the implementation here, we have set $C_0=1$.
 2. **Area and volume constraints** as described in Eqn. 2 of our manuscript 
-Following two terms are not considered in the isotropic curvature induction formalism in Fig-4 of Sanjoy Paul, Anjon Audhya, Qiang Cui BioRxiv (2024). However, in the original version of the code contain the following energy terms and we have used them in Fig-S7 in our manuscript
+Following two terms are not considered in the isotropic curvature induction formalism in Fig-4 of Sanjoy Paul, Anjon Audhya, Qiang Cui BioRxiv (2024). However, in the original version of the code contain the following energy terms and we have used them in Fig-S7 in our manuscript.
+
 3. **A unit in-plane nematic field** $\hat{m}$, whose lateral organization and texture are governed by Lebwhol-Lasher interactions.
 $$ H_{NN}=\dfrac{\epsilon_{LL}}{2}\int \left(\nabla \theta \right)^2 dS
 $$
