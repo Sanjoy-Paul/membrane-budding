@@ -31,15 +31,13 @@ Here, I give a brief overview of the physics underlying this code. It aims to ev
 
 There are three two components in the model:
 1. **A membrane surface**  whose configurations is governed by the Canham-Helfrich Hamiltonian
- $$ H_{el}=\dfrac{\kappa}{2}\int \left(2H-C_0\right)^2 dS
-$$
+ $$ H_{el}=\dfrac{\kappa}{2}\int \left(2H-C_0\right)^2 dS $$
 In the implementation here, we have set $C_0=1$.
 2. **Area and volume constraints** as described in Eqn. 2 of our manuscript 
 Following two terms are not considered in the isotropic curvature induction formalism in Fig-4 of Sanjoy Paul, Anjon Audhya, Qiang Cui BioRxiv (2024). However, in the original version of the code contain the following energy terms and we have used them in Fig-S7 in our manuscript.
 
 3. **A unit in-plane nematic field** $\hat{m}$, whose lateral organization and texture are governed by Lebwhol-Lasher interactions.
-$$ H_{NN}=\dfrac{\epsilon_{LL}}{2}\int \left(\nabla \theta \right)^2 dS
-$$
+$$ H_{NN}=\dfrac{\epsilon_{LL}}{2}\int \left(\nabla \theta \right)^2 dS $$
 
   This is an one constant approximation of the Frank's Free energy. _It should be remembered that the angle between the neighboring nematic field vectors in the calculations in the codes is computed  using a parallel transport technique._
 
