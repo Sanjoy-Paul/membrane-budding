@@ -1,4 +1,4 @@
-### NEMATIC ORDERING, ORDERING DEPENDENT ANISOTROPIC ELASTICITY, AND MORPHOLOGY OF FLUID MEMBRANES
+### Simulating membrane budding induced by protein coat assemblies
 ---
 ``` Developer:``` __Ramakrishnan Natesan__ (www.seas.upenn.edu/~ramn)
 
